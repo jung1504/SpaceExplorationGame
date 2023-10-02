@@ -1,0 +1,9 @@
+Time to purchase some items. Your items will be in the following categories:
+
+- WEAPONS. If your weapon breaks or if you lose your weapon during an event, you may need additional weapons to defend yourself!
+- TRANSLATOR. Allows you to communicate with friendly aliens to get their assessment of the planet and increases odds of winning against a hostile alien.
+- SPACE SUIT. The better the spacesuit, the more durable and protective you will be during the mission and an alien attack.
+- MEDICAL KITS. The more kits you have, the more times you can revive your health by 40%.
+- FUEL. Fuel is an essential element for the spacecraft to travel to more planets.
+
+You can spend all of your money here before you start your journey, or you can save some to spend on different resources along the way. You will also gain money for each turn as you move through the game.

@@ -1,0 +1,10 @@
+n,You are totally lying, you just don’t want humans to come here.
+n,Thanks for your insight! I’ll take it into consideration.
+n,Might as well give up and go to some other planet now I guess.
+n,Bummer. I'll keep exploring a little bit still though.
+n,Wow that’s disappointing. This planet looked so promising too.
+h,That's great to hear! I will take your word on that.
+h,I hope you are being honest, lots of people's lives depend it.
+h,Thank you for the insight! I'll take it into consideration.
+h,I'm so glad I ran into you! This gives me hope.
+h,I don't know if I should believe you...

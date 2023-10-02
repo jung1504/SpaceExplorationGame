@@ -1,0 +1,4 @@
+Lola Doctor;Lola is a very successful healer and doctor and will make you gain 5% health each time you lose health after a battle.
+Nerys Fighter;Nerys is a world-class warrior and weapons operator, increase your odds of winning a battle with hostile aliens by 10%.
+Millie Tycoon;Millie is an fuel tycoon and will allow you to start with double the fuel.
+Chuck Intimidator;Chuck was once part of the CIA and is very charismatic and intimidating, the friendly alien will be 10% more likely to tell the truth.

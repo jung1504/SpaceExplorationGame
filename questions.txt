@@ -1,0 +1,86 @@
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?;Apple,Microsoft,Atari,Commodore
+What does CPU stand for?;Central Processing Unit,Central Process Unit,Computer Personal Unit,Central Processor Unit
+According to the International System of Units, how many bytes are in a kilobyte of RAM?;1000,512,1024,500
+What does AD stand for in relation to Windows Operating Systems?;Active Directory,Alternative Drive,Automated Database,Active Department
+When was the programming language C# released?;2000,1998,1999,2001
+What five letter word is the motto of the IBM Computer company?;Think,Click,Logic,Pixel
+How many Hz does the video standard PAL support?;50,59,60,25
+If you were to code software in this language you'd only be able to type 0s and 1s.,Binary,JavaScript,C++,Python
+What is the most preferred image format used for logos in the Wikimedia database?;.svg,.png,.jpeg,.gif
+What did the name of the Tor Anonymity Network originally stand for?;The Onion Router,The Only Router,The Orange Router,The Ominous Router
+What was the name given to Android 4.3?;Jelly Bean,Lollipop,Nutella,Froyo
+What does the acronym CDN stand for in terms of networking?;Content Delivery Network,Content Distribution Network,Computational Data Network,Compressed Data Network
+How many kilobytes in one gigabyte (in decimal)?;1000000,1024,1000,1048576
+Which one of these is not an official development name for a Ubuntu release?;Mystic Mansion,Trusty Tahr,Utopic Unicorn,Wily Werewolf
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?;JavaScript,C#,Python,PHP
+In CSS, which of these values CANNOT be used with the position property?;center,static,absolute,relative
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?;Heartbleed,Shellshock,Corrupted Blood,Shellscript
+How fast is USB 3.1 Gen 2 theoretically?;10 Gb/s,5 Gb/s,8 Gb/s,1 Gb/s
+Which of the following is a personal computer made by the Japanese company Fujitsu?;FM-7,PC-9801,Xmillennium ,MSX
+Which data structure does FILO apply to?;Stack,Queue,Heap,Tree
+What does the term GPU stand for?;Graphics Processing Unit,Gaming Processor Unit,Graphite Producing Unit,Graphical Proprietary Unit
+What is the name of the process that sends one qubit of information using two bits of classical information?;Quantum Teleportation,Super Dense Coding,Quantum Entanglement,Quantum Programming
+What internet protocol was documented in RFC 1459?;IRC,HTTP,HTTPS,FTP
+Which of these is not a key value of Agile software development?;Comprehensive documentation,Individuals and interactions,Customer collaboration,Responding to change
+What is the main CPU is the Sega Mega Drive / Sega Genesis?;Motorola 68000,Zilog Z80,Yamaha YM2612,Intel 8088
+Which of these people was NOT a founder of Apple Inc?;Jonathan Ive,Steve Jobs,Ronald Wayne,Steve Wozniak
+Which RAID array type is associated with data mirroring?;RAID 1,RAID 0,RAID 10,RAID 5
+Laserjet and inkjet printers are both examples of what type of printer?;Non-impact printer,Impact printer,Daisywheel printer,Dot matrix printer
+What was the first company to use the term Golden Master?;Apple,IBM,Microsoft,Google
+The C programming language was created by this American computer scientist.;Dennis Ritchie,Tim Berners Lee,al-Khwārizmī,Willis Ware
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?;Transport,Session,Data link,Network
+Who invented the Spanning Tree Protocol?;Radia Perlman,Paul Vixie,Vint Cerf,Michael Roberts
+Approximately how many Apple I personal computers were created?;200,100,500,1000
+Which programming language shares its name with an island in Indonesia?;Java,Python,C,Jakarta
+In programming, what do you call functions with the same name but different implementations?;Overloading,Overriding,Abstracting,Inheriting
+How long is an IPv6 address?;128 bits,32 bits,64 bits,128 bytes
+In computing, what does MIDI stand for?;Musical Instrument Digital Interface,Musical Interface of Digital Instruments,Modular Interface of Digital Instruments,Musical Instrument Data Interface
+What major programming language does Unreal Engine 4 use?;C++,Assembly,C#,ECMAScript
+Which of these is not a layer in the OSI model for data communications?;Connection Layer,Application Layer,Transport Layer,Physical Layer
+The teapot often seen in many 3D modeling applications is called what?;Utah Teapot,Pixar Teapot,3D Teapot,Tennessee Teapot
+Which of the following computer components can be built using only NAND gates?;ALU,CPU,RAM,Register
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?;Cherry MX Blue,Cherry MX Black,Cherry MX Red,Cherry MX Brown
+Who is the founder of Palantir?;Peter Thiel,Mark Zuckerberg,Marc Benioff,Jack Dorsey
+What does the computer software acronym JVM stand for?;Java Virtual Machine,Java Vendor Machine,Java Visual Machine,Just Virtual Machine
+What is the colour of unoxidized blood?;Red,Blue,Purple,Green
+What is the largest animal currently on Earth?;Blue Whale,Orca,Colossal Squid,Giraffe
+Which is the chemical name of H2O?;Dihydrogen Monoxide,Ammonium chloride,Anhydrous Sodium Carbonate,Manganese dioxide
+What does the letter S stand for in NASA?;Space,Science,Society,Star
+Which element has the chemical symbol Fe?;Iron,Gold,Silver,Tin
+Rhinoplasty is a surgical procedure on what part of the human body?;Nose,Ears,Chin,Neck
+Which type of rock is created by intense heat AND pressure?;Metamorphic,Sedimentary,Igneous,Diamond
+This element, when overcome with extreme heat and pressure, creates diamonds.;Carbon,Nitrogen,Oxygen,Hydrogen
+What is the elemental symbol for mercury?;Hg,Me,Mc,Hy
+Which of these stars is the largest?;UY Scuti,VY Canis Majoris,Betelgeuse,RW Cephei
+What is the hottest planet in the Solar System?;Venus,Mars,Mercury,Jupiter
+On the Beaufort Scale of wind force, what wind name is given to number 8?;Gale,Storm,Hurricane,Breeze
+What is the powerhouse of the cell?;Mitochondria,Ribosome,Redbull,Nucleus
+What is the standard SI unit for temperature?;Kelvin,Fahrenheit,Celsius,Rankine
+All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:;,Haplogroup U,Haplogroup L,Haplogroup T,Haplogroup J
+Which psychological term refers to the stress of holding contrasting beliefs?;Cognitive Dissonance,Flip-Flop Syndrome,Split-Brain,Blind Sight
+What is the chemical formula for ammonia?;NH3,CO2,NO3,CH4
+What polymer is used to make CDs, safety goggles and riot shields?;Polycarbonate,Rubber,Nylon,Bakelite
+The medical condition osteoporosis affects which part of the body?;Bones,Skin,Brain,Heart
+Which of the following is NOT a real element?;Vitrainium,Praseodymium,Hassium,Lutetium
+Which one of these is scientific term for Brain Freeze?;Sphenopalatine Ganglioneuralgia,Hyacinthoides Italica,Amaranthus Retroflexus,Amblyomma Americanum
+The asteroid belt is located between which two planets?;Mars and Jupiter,Jupiter and Saturn,Mercury and Venus,Earth and Mars
+The medical term for the belly button is which of the following?;Umbilicus,Nevus,Nares,Paxillus
+The biggest distinction between a eukaryotic cell and a prokaryotic cell is:;The presence or absence of a nucleus,The overall size,The presence or absence of certain organelles,The mode of reproduction
+What does LASER stand for?;Light amplification by stimulated emission of radiation,Lite analysing by stereo ecorazer,Light amplifier by standby energy of radio,Life antimatter by standing entry of range
+Botanically speaking, which of these fruits is NOT a berry?;Strawberry,Blueberry,Banana,Concord Grape
+How much radiation does a banana emit?;0.1 Microsievert,0.3 Microsievert,0.5 Microsievert,0.7 Microsievert
+What is the unit of electrical capacitance?;Farad,Gauss,Henry,Watt
+Which of the following is NOT a word used to describe an earthquake?;Drop-slide,Foreshock,Strike-slip,Temblor
+Where is the Gluteus Maximus muscle located?;Butt,Arm,Head,Torso
+On which mission did the Space Shuttle Columbia break up upon re-entry?;STS-107,STS-51-L,STS-61-C,STS-109
+What do you study if you are studying entomology?;Insects,Humans,the Brain,Fish
+What is the scientific term for taste?;Gustatory Perception,Olfaction,Somatosensation,Auditory Perception
+What is Stenoma?;A genus of moths,A combat stimulant from WW2,A type of seasoning,A port city in the carribean
+An organism described as heliotropic has a tendancy to move towards which of these things?;Light,Water,Trees,Pollen
+What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?;Gausss Law,Faradays Law,Amperes Law,Biot-Savart Law
+Which of these animals belongs in class Chondrichthyes?;Great white shark,Octopus,Killer whale,Catfish
+The word science stems from the word meaning what?;To know,To measure,To live,To count
+Which of the following is a major muscle of the back?;Trapezius,Trapezium,Trapezoid,Triquetrum
+Which of the following is considered classical conditioning?;Pavlovs dog experiments,Skinner box experiment,Schr&ouml;dingers cat experiment,Harlow&rsquo;s monkey experiments
+In quantum physics, which of these theorised sub-atomic particles has yet to be observed?;Graviton,Z boson,Tau neutrino,Gluon
+How old is the universe?;13.8 Billion Years,4.5 Billion Years,7.9 Billion Years,16.2 Billion Years
